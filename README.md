@@ -1,5 +1,7 @@
 # My Homelab
 
+![Diagram homelab](https://github.com/kibk/homelab/blob/master/diagram-drawio.png?raw=true)
+
 Self-hosted stack that I am running. Its main objective is to learn. I have a small cluster of 3 Raspberry Pis, VPS, Proxmox host and some networking equipment. Proxmox hosts OPNSense firewall and OpenMediaVault for NFS. VPS is used for all the Public traffic.
 
 ## VPS 
