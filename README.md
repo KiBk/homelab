@@ -5,3 +5,4 @@ Self-hosted stack that I am running. Its main objective is to learn. I have a sm
 # TODO
 - Add subrepositories
 - Make those subrepositories public =)
+- Add a diagram
