@@ -10,5 +10,8 @@ Self-hosted stack that I am running. Its main objective is to learn. I have a sm
 
 # TODO
 - Add subrepositories
+  - Made pihole public
+  - Add it to here
+  - Setup backups of pihole folder to the NAS
 - Make those subrepositories public =)
 - ~~Add a diagram~~
