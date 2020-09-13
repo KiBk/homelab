@@ -9,9 +9,12 @@ Self-hosted stack that I am running. Its main objective is to learn. I have a sm
 [Contabo VPS](https://contabo.com/?show=configurator&vserver_id=221): 4 CPUs, 8 GB RAM, 200 GB SDD
 
 # TODO
-- Add subrepositories
-  - Made pihole public
-  - Add it to here
-  - Setup backups of pihole folder to the NAS
-- Make those subrepositories public =)
+- Make my docker-compose files public
+  - ~~Piweb~~
+  - Swarmnet
+  - ~~Remotenet~~
+- Add subrepositories to this one
+  - ~~Piweb~~
+  - Swarmnet
+  - ~~Remotenet~~
 - ~~Add a diagram~~
