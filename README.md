@@ -17,4 +17,6 @@ Self-hosted stack that I am running. Its main objective is to learn. I have a sm
   - ~~Piweb~~
   - Swarmnet
   - ~~Remotenet~~
-- ~~Add a diagram~~
+- Diagram
+  - ~~publish~~
+  - update the diagram
