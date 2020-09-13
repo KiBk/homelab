@@ -1,0 +1,6 @@
+[submodule "piweb"]
+	path = piweb
+	url = https://github.com/kibk/piweb
+[submodule "remoteweb"]
+	path = remoteweb
+	url = https://github.com/kibk/remoteweb
