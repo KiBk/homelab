@@ -14,7 +14,7 @@ Self-hosted stack that I am running. Its main objective is to learn. I have a sm
 
 ## VPS 
 
-[Contabo VPS](https://contabo.com/?show=configurator&vserver_id=221): 4 CPUs, 8 GB RAM, 200 GB SDD
+[Contabo VPS](https://contabo.com/?show=configurator&vserver_id=221): 4 CPUs, 8 GB RAM, 200 GB SDD for just 5 euro a month. A steal!
 
 # TODO
 - Make my docker-compose files public
